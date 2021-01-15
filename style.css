@@ -1,0 +1,54 @@
+/* navbar */
+
+
+.container-fluid img{
+    height: 30px;
+}
+/* @media(min-width: 600px) {
+    body{
+        width: 100%;
+    }
+   #section{
+       margin-bottom: 100px;
+       height: 1vh;
+       
+   }
+   .div {
+    margin-bottom: 200px;
+   }
+} */
+   
+a{
+    
+    text-decoration: none;
+    color: white;
+}
+section{
+    margin: 0 0 70px 0;
+}
+h5{
+    color: #363958;
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+h4{
+    color: #363958;
+    font-weight: bolder;
+    font-size: 25px; 
+}
+.footer{
+    background-color: white;
+    border: 0;
+}
+
+
+
+.te{
+    color: black;
+}
+h2{
+    font-weight: bolder;
+    font-size: 40px;
+    color: rgb(255, 112, 60);
+}
